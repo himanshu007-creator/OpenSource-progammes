@@ -2,6 +2,8 @@
 Resources for CODXCRYPT session
 
 ## Getting started⚡
+Give <a href="https://magazine.joomla.org/all-issues/may-2021/vs-code-use-it-like-a-pro">this</a> blog a read. Here i have written a 101 guide to VScode and helps while using GitHub
+
 ### How to find issues⁉:-
 - Learn some coding languages/frameworks. But in case you dont know, its still okay. you Can contribute and <code>learn on the go</code>
 - find goood first issues <a href="https://goodfirstissues.com/">here</a>
