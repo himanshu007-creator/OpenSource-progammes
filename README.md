@@ -1,5 +1,5 @@
 # OpenSource-progammes
-Resources for CODXCRYPT session
+Resources for <a href="https://www.youtube.com/watch?v=eIMK8qmV41Y">CODXCRYPT session</a> 
 
 ## Getting started⚡
 Give <a href="https://magazine.joomla.org/all-issues/may-2021/vs-code-use-it-like-a-pro">this</a> blog a read. Here i have written a 101 guide to VScode and helps while using GitHub
