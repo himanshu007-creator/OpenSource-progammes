@@ -104,7 +104,7 @@ on successful completion of projects, students receive handsome stipend. Its a g
  
 3) Code For Cause
 
-  Code For Cause is a great community that helps students who aspire for future in tech, They have the BEST and MOST REALISTIC content. They offer crisp facts/information without any sugarcoating. Check out there <a href="https://codeforcause.org/">website</a>
+  Code For Cause is a great community that helps students who aspire for future in tech, They have the BEST and MOST REALISTIC content. They offer crisp facts/information without any sugarcoating. Check out their <a href="https://codeforcause.org/">website</a>
   
 ## ⚠ OPENSOURCE != MONEY/SWAGS/CERTIFICATES ⚠
   
