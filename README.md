@@ -85,6 +85,8 @@ on successful completion of projects, students receive handsome stipend. Its a g
   
   6) <a href="https://kwoc.kossiitkgp.org/">Kharagpur winter of code a.k.a KWOC</a>
   
+  7) <a href="https://letsgrowmore.in/soc/">LgmSOC</a>
+  
   7) <a href="https://www.google.com/">Find more here :)</a>
   
   There are wayyyyyy! many opensource prorgams where you can participate and learn new things. 
