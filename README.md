@@ -35,3 +35,27 @@ kindly send a well documented PR and attach media whenever needed. If your PR so
 
 ## What next?
 ![](https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif)
+
+Now you knoe basics of github. You can learn other concepts related to github like:-
+>
+> - using git
+> - github actions
+>  - github pages 
+
+## Opensource events
+1) Google Summer Of Code a.k.a GSOC
+  <a href="https://summerofcode.withgoogle.com/">GSOC</a> is annual opensourc eevent of google where students get chance to work with variouus organisations on guided projects. Aim of GSOC is to promote open-source culture. GSOC is dream of every open-source enthuciast and around 1300+ students are selected globally for a period of around 3 months.
+on successful completion of projects, students receive handsome stipend. Its a great opportunity to work on real world projects and impact millions of users
+  
+2) Outreachy 
+  <a href="https://www.outreachy.org/">Outreachy</a> is very similar to GSoC, with the main difference that is aimed at minorities, so it is mainly directed towards women and people whose minority is underrepresented in technology. The other difference is that it is held twice a year, while GSoC is only held once. Outreachy has less pool of money and selects less number of students as compared to GSOC, but the individual stipend is more than GSOC.
+  
+3) MLH fellowhip
+  The <a href="https://fellowship.mlh.io/">MLH Fellowship</a> is an internship alternative for software engineers, with a focus on Open Source projects. Instead of working on a project for just one company, students contribute to Open Source projects that are used by companies around the world.
+  it have 3 tracks:-
+  - <a href="https://fellowship.mlh.io/programs/open-source">Opensource track</a>
+  - <a href="https://fellowship.mlh.io/programs/software-engineering">Software engineering</a>
+  - <a href="https://fellowship.mlh.io/programs/production-engineering">Production engineer</a>
+  
+  
+  
