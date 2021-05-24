@@ -9,7 +9,7 @@ Resources for CODXCRYPT session
                           OR
 - You can also find Good first issues by Github Search.
 > click here
-![pic]()
+![pic](media/issue.gif)
 
 > paste this in the search
    <code>is:open is:issue no:assignee label:"good first issue" archived:false </code>
@@ -75,15 +75,15 @@ on successful completion of projects, students receive handsome stipend. Its a g
   
   1) <a href="https://hacktoberfest.digitalocean.com/">hacktoberfest</a>
   
-  2) <a href="https://gssoc.girlscript.tech/">Girlscript sumemr of code</a>
+  2) <a href="https://gssoc.girlscript.tech/">Girlscript summer of code</a>
   
-  3) <a href="https://njackwinterofcode.github.io/">Njack winetr of code a.k.a NWOC</a>
+  3) <a href="https://njackwinterofcode.github.io/">Njack winter of code a.k.a NWOC</a>
   
   4) <a href="https://devscript.tech/woc/">Devscript winter of code a.k.a DWOC</a>
   
-  5) <a href="https://swoc.tech/">Script winetr of code a.k.a SWOC</a>
+  5) <a href="https://swoc.tech/">Script winter of code a.k.a SWOC</a>
   
-  6) <a href="https://kwoc.kossiitkgp.org/">Kharagpur winetr of code a.k.a KWOC</a>
+  6) <a href="https://kwoc.kossiitkgp.org/">Kharagpur winter of code a.k.a KWOC</a>
   
   7) <a href="https://www.google.com/">Find more here :)</a>
   
@@ -102,7 +102,7 @@ on successful completion of projects, students receive handsome stipend. Its a g
 
   Code For Cause is a great community that helps students who aspire for future in tech, They have the BEST and MOST REALISTIC content. They offer crisp facts/information without any sugarcoating. Check out there <a href="https://codeforcause.org/">website</a>
   
-## OPENSOURCE != MONEY/SWAGS/CERTIFICATES ⚠
+## ⚠ OPENSOURCE != MONEY/SWAGS/CERTIFICATES ⚠
   
   Many people are mistaken that Open-source is just about money/swags/certificates. I mean, yeah, they MIGHT be a small part of it, but NOT the everything of it! 
   When a person's first PR is merged, that feeling is wayy beyond all the materialistic things. No money can buy that comfort. The above mentioned prorgammes are a great opportunity , but if you apply for them <b>SOLELY FOR PERKS WHATEVER THEY MAYBE</b> , then you haven't understood open-source yet. Open-source is a feeling of JOY!. Imagine noobs, sending typo fixing PR (i also do it sometimes- <i>still</i>), and see it merge. They realise that their PR will affect so many people and they have contributed to something big. No contribution is small, You just need to do it with passion.
