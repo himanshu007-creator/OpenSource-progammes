@@ -38,7 +38,7 @@ kindly send a well documented PR and attach media whenever needed. If your PR so
 ## What next?
 ![](https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif)
 
-Now you knoe basics of github. You can learn other concepts related to github like:-
+Now you know basics of github. You can learn other concepts related to github like:-
 >
 > - using git
 > - github actions
@@ -100,7 +100,7 @@ on successful completion of projects, students receive handsome stipend. Its a g
   
 2) Praveen Kumar Purushothaman (ex MICROSOFT MVP)
   
-  <a href="https://github.com/praveenscience/" > Praveen</a> is a REACT specialist and loevs to kindle with react, He have an awesome youtube channel, check <a href="https://www.youtube.com/channel/UCr9JJ8RR0n4L6FC3PjIAUVw">it</a> out!
+  <a href="https://github.com/praveenscience/" > Praveen</a> is a REACT specialist and loves to kindle with react, He have an awesome youtube channel, check <a href="https://www.youtube.com/channel/UCr9JJ8RR0n4L6FC3PjIAUVw">it</a> out!
  
 3) Code For Cause
 
