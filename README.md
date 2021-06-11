@@ -48,7 +48,7 @@ Now you know basics of github. You can learn other concepts related to github li
 1) Google Summer Of Code a.k.a GSOC
   
   <a href="https://summerofcode.withgoogle.com/">GSOC</a> is annual opensource event of google where students get chance to work with various organisations on guided projects. Aim of GSOC is to promote open-source culture. GSOC is dream of every open-source enthusiast and around 1300+ students are selected globally for a period of around 3 months.
-on successful completion of projects, students receive handsome stipend. It's a great opportunity to work on real world projects and impact millions of users
+On successful completion of projects, students receive handsome stipend. It's a great opportunity to work on real world projects and impact millions of users
   
 2) Outreachy 
   
