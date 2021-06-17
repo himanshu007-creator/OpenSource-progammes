@@ -91,7 +91,7 @@ On successful completion of projects, students receive handsome stipend. It's a 
   
   7) <a href="https://www.google.com/">Find more here :)</a>
   
-  There are wayyyyyy! many opensource prorgams where you can participate and learn new things. 
+  There are wayyyyyy! many opensource programs where you can participate and learn new things. 
   
  ## People/ community to follow
  1) Eddie jaoude (GITHUB ⭐)
