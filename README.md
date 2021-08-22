@@ -68,9 +68,9 @@ On successful completion of projects, students receive handsome stipend. It's a 
   
   <a href="https://wiki.linuxfoundation.org/lkmp">Linux foundation mentorship program</a>
   
-  <a href="https://summer.iscas.ac.cn/#/homepage?lang=en">Summer of open-source promotion plan</a> (<i>also callled chinese GSOC</i>)
+  <a href="https://summer.iscas.ac.cn/#/homepage?lang=en">Summer of open-source promotion plan</a> (<i>also called chinese GSOC</i>)
   
-  <a href="https://developers.google.com/season-of-docs">Google summer of docs a.k.a GSOD</a>
+  <a href="https://developers.google.com/season-of-docs">Google season of docs a.k.a GSOD</a>
   
 ## Open-source Events
   There are other opensource events where you can work on project(s) , and mostly , rewards are in form of swags and stuff. These events also aim to promote open-source by helping beginners getting started with opensource
