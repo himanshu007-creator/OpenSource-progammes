@@ -68,7 +68,7 @@ On successful completion of projects, students receive handsome stipend. It's a 
   
   <a href="https://wiki.linuxfoundation.org/lkmp">Linux foundation mentorship program</a>
   
-  <a href="https://summer.iscas.ac.cn/#/homepage?lang=en">Summer of open-source promotion plan</a> (<i>also called chinese GSOC</i>)
+  <a href="https://summer.iscas.ac.cn/#/homepage?lang=en">Summer of open-source promotion plan</a> (<!--- removed on suggestions by Harsh bardhan mishra bhaisahab🙂<i>also called chinese GSOC</i>-->)
   
   <a href="https://developers.google.com/season-of-docs">Google season of docs a.k.a GSOD</a>
   
